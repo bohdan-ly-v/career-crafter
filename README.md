@@ -1,8 +1,8 @@
 # CareerCrafter
 
-## Fully responsive and intuitive collaborative platform for developers, recruiters and investors!
+## Coolest CRM for realtors to manage their realty in one place!
 
-Checkout this [DEMO](https://career-crafter.vercel.app/home) to start craft you future today!
+Checkout this [DEMO](https://rent-apart.vercel.app) to start manage your realty today!
 
 ![DEMO](https://user-images.githubusercontent.com/132020019/235011908-13b88808-39a5-4c44-8bb5-685da00e0e96.gif)
 
