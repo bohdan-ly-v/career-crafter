@@ -4,6 +4,8 @@
 
 Checkout this [DEMO](https://career-crafter.vercel.app/home) to start craft you future today!
 
+![DEMO](https://user-images.githubusercontent.com/132020019/235011908-13b88808-39a5-4c44-8bb5-685da00e0e96.gif)
+
 ## Description
 CareerCrafter is a comprehensive platform designed to support individuals in all aspects of their career development journey. It allows users to gain hands-on experience, collaborate with other developers, and create compelling pet projects in a supportive and empowering environment. With CareerCrafter, users can build a strong foundation for a successful career in the tech industry and connect with potential employers, mentors, and investors.
 
